@@ -1,0 +1,26 @@
+.reset-password-container {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .logo-container {
+    margin-bottom: 20px; /* Espacio entre el logotipo y el título */
+  }
+  
+  .logo {
+    max-width: 100px; /* Ajusta el tamaño máximo del logotipo según tus necesidades */
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin: 0; /* Elimina el margen superior del título para que esté alineado con el logotipo */
+  }
+  
+  /* Resto de estilos para el formulario y los elementos del formulario */
+  
